@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('opennlp-sent-models-1.5.jar'))

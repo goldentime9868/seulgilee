@@ -1,0 +1,1 @@
+include ':app', ':opennlp-tools-1.9.1', ':opennlp-uima-1.9.1', ':opennlp-sent-models-1.5'

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sentence_one"
+        android:title="한 줄"/>
+    <item
+        android:id="@+id/sentence_two"
+        android:title="두 줄"/>
+    <item
+        android:id="@+id/sentence_three"
+        android:title="세 줄"/>
+    <item
+        android:id="@+id/sentence_four"
+        android:title="네 줄"/>
+</menu>

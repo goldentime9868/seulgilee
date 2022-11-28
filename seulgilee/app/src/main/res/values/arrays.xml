@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="summary">
+        <item>3 문장 요약</item>
+        <item>4 문장 요약</item>
+        <item>5 문장 요약</item>
+        <item>6 문장 요약</item>
+        <item>7 문장 요약</item>
+        <item>8 문장 요약</item>
+        <item>9 문장 요약</item>
+        <item>10 문장 요약</item>
+    </string-array>
+    <string-array name="algorithms">
+        <item>luhn</item>
+        <item>edmundson</item>
+        <item>lsa</item>
+        <item>text-rank</item>
+        <item>lex-rank</item>
+        <item>sum-basic</item>
+        <item>kl</item>
+    </string-array>
+</resources>

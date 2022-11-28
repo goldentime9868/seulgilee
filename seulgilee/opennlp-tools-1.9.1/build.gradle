@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('opennlp-tools-1.9.1.jar'))
